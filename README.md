@@ -1,2 +1,2 @@
 # transactions
-transactions package
+Importable version of GetTransactions. 
